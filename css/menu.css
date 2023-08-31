@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  background-color: #a89d92;
+  color: aliceblue;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 5rem;
+  justify-content: center;
+}
+
+.menu-card {
+  text-align: center;
+}
+
+.menu-card img {
+  border-radius: 50%;
+  width: 80%;
+}
+
+.menu-card-title {
+  margin-top: 1rem auto 0.5rem;
+}
